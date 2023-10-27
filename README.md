@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Noah Lombardozzi, and I'm a graduate student at the University of Dallas. I enjoy sports analytics, and working on machine learning applications that relate to forecasting!
+#My name is Noah Lombardozzi, and I'm a graduate student at the University of Dallas. I enjoy sports analytics, and working on machine learning applications that relate to forecasting!
 <!--
 **agamemnon-1998/agamemnon-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
